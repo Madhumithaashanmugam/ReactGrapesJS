@@ -41,4 +41,4 @@ Use the real-time styling editor on the right panel to adjust the appearance of 
 Once satisfied with your design, click on the "Export" button to download your HTML and CSS files.
 
 **view of the Application:**
- ![Drag-and-drop](https://github.com/user-attachments/assets/734b722a-0d1d-4e4c-b5fe-28408f04cf18)
+![Screenshot 2024-08-19 144021](https://github.com/user-attachments/assets/9e9c9866-44a8-4406-8175-7ea5af15ccaa)
