@@ -22,7 +22,7 @@ This project is a drag-and-drop application developed using **React.js**, **Grap
 To run this project locally:
 
 **1. Clone this repository:**   
-   ![Drag-and-drop](https://github.com/user-attachments/assets/734b722a-0d1d-4e4c-b5fe-28408f04cf18)
+  
 bash
    git clone https://github.com/your-username/drag-and-drop-app.git
    
@@ -37,3 +37,6 @@ Start the development server:
 Drag elements from the sidebar and drop them onto the main canvas to build your layout.
 Use the real-time styling editor on the right panel to adjust the appearance of your elements.
 Once satisfied with your design, click on the "Export" button to download your HTML and CSS files.
+
+view of the Application:
+ ![Drag-and-drop](https://github.com/user-attachments/assets/734b722a-0d1d-4e4c-b5fe-28408f04cf18)
