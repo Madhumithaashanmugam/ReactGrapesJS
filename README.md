@@ -24,7 +24,7 @@ To run this project locally:
 **1. Clone this repository:**   
   
 bash
-   git clone https://github.com/your-username/drag-and-drop-app.git
+   git clone https://github.com/Madhumithaashanmugam/ReactGrapesJS.git
    
 **2.Navigate to the project directory:** 
 in bash  cd my-grapesjs-app
