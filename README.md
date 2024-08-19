@@ -38,5 +38,5 @@ Drag elements from the sidebar and drop them onto the main canvas to build your 
 Use the real-time styling editor on the right panel to adjust the appearance of your elements.
 Once satisfied with your design, click on the "Export" button to download your HTML and CSS files.
 
-view of the Application:
+**view of the Application:**
  ![Drag-and-drop](https://github.com/user-attachments/assets/734b722a-0d1d-4e4c-b5fe-28408f04cf18)
