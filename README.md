@@ -31,8 +31,10 @@ in bash  cd my-grapesjs-app
   
 **3.Install dependencies:**
   npm install -f
+  
 **4.Start the development server:**
   npm start or yarn start
+  
 **Usage**
 Drag elements from the sidebar and drop them onto the main canvas to build your layout.
 Use the real-time styling editor on the right panel to adjust the appearance of your elements.
