@@ -43,10 +43,10 @@ Once satisfied with your design, click on the "Export" button to download your H
 **view of the Application:**
 ![Screenshot 2024-08-19 144021](https://github.com/user-attachments/assets/9e9c9866-44a8-4406-8175-7ea5af15ccaa)
 
-
+**Drag and Drop**
 ![Screenshot 2024-08-19 144235](https://github.com/user-attachments/assets/a03d7df4-83b7-43a2-8283-593af194c41d)
 
-
+**Out Come**
 ![drag-and-drop-photo](https://github.com/user-attachments/assets/e8ac07fe-8134-4867-aac7-f72a15ae4436)
 
 
