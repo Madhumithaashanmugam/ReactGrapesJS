@@ -28,6 +28,10 @@ bash
    
 **2.Navigate to the project directory:** 
 in bash  cd my-grapesjs-app
+in bash npm install jszip
+in bash npm install file-saver
+in bash npm install web-vitals
+
   
 **3.Install dependencies:**
   npm install -f
